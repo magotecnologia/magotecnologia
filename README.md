@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=magotecnologia&show_icons=true alt=Magotecnologia />
+	<img src=hhttps://github-readme-stats.magotecnologia.vercel.app/api?username=magotecnologia&count_private=false&show_icons=true alt=Magotecnologia />
 </p>
